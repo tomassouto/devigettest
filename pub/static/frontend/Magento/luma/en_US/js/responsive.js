@@ -1,0 +1,1 @@
+/Volumes/baires/projects/baires/deviget/app/design/frontend/Magento/blank/web/js/responsive.js

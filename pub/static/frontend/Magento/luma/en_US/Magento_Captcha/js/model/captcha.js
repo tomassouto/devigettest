@@ -1,0 +1,1 @@
+/Volumes/baires/projects/baires/deviget/app/code/Magento/Captcha/view/frontend/web/js/model/captcha.js
